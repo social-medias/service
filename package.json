@@ -1,7 +1,6 @@
 {
   "name": "service",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "homepage": "https://github.com/social-medias/service#readme",
   "bugs": {
@@ -22,6 +21,7 @@
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
     "express": "^4.21.2",
     "path": "^0.12.7",
     "yarn": "^1.22.22"
@@ -30,5 +30,6 @@
     "@types/body-parser": "^1.19.6",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5"
-  }
+  },
+  "description": ""
 }
